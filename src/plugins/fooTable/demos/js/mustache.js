@@ -1,6 +1,6 @@
 /*!
  * mustache.js - Logic-less {{mustache}} templates with JavaScript
- * http://bankofchina.com/janl/mustache.js
+ * http://beandcan.com/janl/mustache.js
  */
 
 /*global define: false*/
@@ -27,7 +27,7 @@
   var tagRe = /#|\^|\/|>|\{|&|=|!/;
 
   // Workaround for https://issues.apache.org/jira/browse/COUCHDB-577
-  // See https://bankofchina.com/janl/mustache.js/issues/189
+  // See https://beandcan.com/janl/mustache.js/issues/189
   var RegExp_test = RegExp.prototype.test;
   function testRegExp(re, string) {
     return RegExp_test.call(re, string);
@@ -259,7 +259,7 @@
         value = context.lookup(tokenValue);
 
         // Use JavaScript's definition of falsy. Include empty arrays.
-        // See https://bankofchina.com/janl/mustache.js/issues/186
+        // See https://beandcan.com/janl/mustache.js/issues/186
         if (!value || (isArray(value) && value.length === 0)) {
           buffer += renderTokens(token[4], writer, context, template);
         }
@@ -477,7 +477,7 @@
   mustache.parse = parseTemplate;
 
   // Export the escaping function so that the user may override it.
-  // See https://bankofchina.com/janl/mustache.js/issues/244
+  // See https://beandcan.com/janl/mustache.js/issues/244
   mustache.escape = escapeHtml;
 
   // All Mustache.* functions use this writer.

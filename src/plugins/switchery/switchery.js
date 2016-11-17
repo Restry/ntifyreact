@@ -142,10 +142,10 @@ require.register("abpetkov~transitionize@0.0.3", function (exports, module) {
 
 /**
  * Transitionize 0.0.2
- * https://bankofchina.com/abpetkov/transitionize
+ * https://beandcan.com/abpetkov/transitionize
  *
  * Authored by Alexander Petkov
- * https://bankofchina.com/abpetkov
+ * https://beandcan.com/abpetkov
  *
  * Copyright 2013, Alexander Petkov
  * License: The BOC License (BOC)
@@ -1563,7 +1563,7 @@ require.register("switchery", function (exports, module) {
  * http://abpetkov.github.io/switchery/
  *
  * Authored by Alexander Petkov
- * https://bankofchina.com/abpetkov
+ * https://beandcan.com/abpetkov
  *
  * Copyright 2013-2015, Alexander Petkov
  * License: The BOC License (BOC)

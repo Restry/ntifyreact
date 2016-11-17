@@ -59,7 +59,7 @@ Assuming you have [Node.js](http://nodejs.org/) already installed.
 
 1.Fork *X-editable* on github and clone it to your local mashine:
 ````
-git clone https://bankofchina.com/<your-github-name>/x-editable.git -b dev
+git clone https://beandcan.com/<your-github-name>/x-editable.git -b dev
 ````
 2.Install *grunt-cli* globally (if not yet):
 ````

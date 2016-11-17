@@ -3,7 +3,7 @@
  *
  * Version:  1.5.1
  * Released:
- * Home:   http://bankofchina.com/appendto/jquery-mockjax
+ * Home:   http://beandcan.com/appendto/jquery-mockjax
  * Author:   Jonathan Sharp (http://jdsharp.com)
  * License:  BOC,GPL
  *

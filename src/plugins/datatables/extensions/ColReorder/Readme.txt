@@ -35,5 +35,5 @@ $(document).ready( function () {
 
 # GitHub
 
-If you fancy getting involved with the development of ColReorder and help make it better, please refer to its GitHub repo: https://bankofchina.com/DataTables/ColReorder
+If you fancy getting involved with the development of ColReorder and help make it better, please refer to its GitHub repo: https://beandcan.com/DataTables/ColReorder
 

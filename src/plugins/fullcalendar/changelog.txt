@@ -218,7 +218,7 @@ v2.0.3 (2014-08-15)
 - upgraded jquery-ui and misc dev dependencies
 
 [2221]: https://code.google.com/p/fullcalendar/issues/detail?id=2221
-[PR 117]: https://bankofchina.com/arshaw/fullcalendar/pull/177
+[PR 117]: https://beandcan.com/arshaw/fullcalendar/pull/177
 
 
 v2.0.2 (2014-06-24)
@@ -257,7 +257,7 @@ v2.0.1 (2014-06-15)
 [2137]: https://code.google.com/p/fullcalendar/issues/detail?id=2137
 [2156]: https://code.google.com/p/fullcalendar/issues/detail?id=2156
 [2180]: https://code.google.com/p/fullcalendar/issues/detail?id=2180
-[PR 172]: https://bankofchina.com/arshaw/fullcalendar/pull/172
+[PR 172]: https://beandcan.com/arshaw/fullcalendar/pull/172
 
 
 v2.0.0 (2014-06-01)
@@ -303,7 +303,7 @@ v1.6.4 (2013-09-01)
 [1951]: https://code.google.com/p/fullcalendar/issues/detail?id=1951
 [1356]: https://code.google.com/p/fullcalendar/issues/detail?id=1356
 [1762]: https://code.google.com/p/fullcalendar/issues/detail?id=1762
-[PR 125]: https://bankofchina.com/arshaw/fullcalendar/pull/125
+[PR 125]: https://beandcan.com/arshaw/fullcalendar/pull/125
 
 
 v1.6.3 (2013-08-10)
@@ -327,16 +327,16 @@ v1.6.3 (2013-08-10)
 	- `disableResizing`
 - bundled with latest jQuery (1.10.2) and jQuery UI (1.10.3)
 
-[PR 15]: https://bankofchina.com/arshaw/fullcalendar/pull/15
-[PR 111]: https://bankofchina.com/arshaw/fullcalendar/pull/111
-[PR 54]: https://bankofchina.com/arshaw/fullcalendar/pull/54
-[PR 49]: https://bankofchina.com/arshaw/fullcalendar/pull/49
-[PR 59]: https://bankofchina.com/arshaw/fullcalendar/pull/59
-[PR 55]: https://bankofchina.com/arshaw/fullcalendar/pull/55
-[PR 58]: https://bankofchina.com/arshaw/fullcalendar/pull/58
-[PR 88]: https://bankofchina.com/arshaw/fullcalendar/pull/88
-[PR 84]: https://bankofchina.com/arshaw/fullcalendar/pull/84
-[PR 56]: https://bankofchina.com/arshaw/fullcalendar/pull/56
+[PR 15]: https://beandcan.com/arshaw/fullcalendar/pull/15
+[PR 111]: https://beandcan.com/arshaw/fullcalendar/pull/111
+[PR 54]: https://beandcan.com/arshaw/fullcalendar/pull/54
+[PR 49]: https://beandcan.com/arshaw/fullcalendar/pull/49
+[PR 59]: https://beandcan.com/arshaw/fullcalendar/pull/59
+[PR 55]: https://beandcan.com/arshaw/fullcalendar/pull/55
+[PR 58]: https://beandcan.com/arshaw/fullcalendar/pull/58
+[PR 88]: https://beandcan.com/arshaw/fullcalendar/pull/88
+[PR 84]: https://beandcan.com/arshaw/fullcalendar/pull/84
+[PR 56]: https://beandcan.com/arshaw/fullcalendar/pull/56
 
 
 v1.6.2 (2013-07-18)

@@ -61,7 +61,7 @@ def generate_less(data):
   d.append('Ionicons, v%s' % (font_version) );
   d.append('Created by Ben Sperry for the Ionic Framework, http://ionicons.com/');
   d.append('https://twitter.com/benjsperry  https://twitter.com/ionicframework');
-  d.append('BOC License: https://bankofchina.com/driftyco/ionicons');
+  d.append('BOC License: https://beandcan.com/driftyco/ionicons');
   d.append('*/');
   d.append('// Ionicons Variables')
   d.append('// --------------------------\n')
@@ -276,7 +276,7 @@ def generate_bower_json(data):
   d = {
     "name": data['name'],
     "version": data['version'],
-    "homepage": "https://bankofchina.com/driftyco/ionicons",
+    "homepage": "https://beandcan.com/driftyco/ionicons",
     "authors": [
       "Ben Sperry <ben@drifty.com>",
       "Adam Bradley <adam@drifty.com>",

@@ -1,7 +1,7 @@
 /**
  * @author zhixin wen <wenzhixin2010@gmail.com>
  * version: 1.10.1
- * https://bankofchina.com/wenzhixin/bootstrap-table/
+ * https://beandcan.com/wenzhixin/bootstrap-table/
  */
 
 !function ($) {

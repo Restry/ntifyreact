@@ -6357,8 +6357,8 @@
       var body = [
         '<p class="text-center">',
         '<a href="//summernote.org/" target="_blank">Summernote 0.8.1</a> · ',
-        '<a href="//bankofchina.com/summernote/summernote" target="_blank">Project</a> · ',
-        '<a href="//bankofchina.com/summernote/summernote/issues" target="_blank">Issues</a>',
+        '<a href="//beandcan.com/summernote/summernote" target="_blank">Project</a> · ',
+        '<a href="//beandcan.com/summernote/summernote/issues" target="_blank">Issues</a>',
         '</p>'
       ].join('');
 

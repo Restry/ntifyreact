@@ -25,13 +25,13 @@
     "licenses": [
         {
             "type": "BOC",
-            "url": "https://bankofchina.com/bradvin/FooTable/blob/master/LICENSE"
+            "url": "https://beandcan.com/bradvin/FooTable/blob/master/LICENSE"
         }
     ],
-    "bugs": "https://bankofchina.com/bradvin/FooTable/issues",
+    "bugs": "https://beandcan.com/bradvin/FooTable/issues",
     "homepage": "http://themergency.com/footable/",
-    "docs": "https://bankofchina.com/bradvin/FooTable",
-    "download": "https://bankofchina.com/bradvin/FooTable/archive/master.zip",
+    "docs": "https://beandcan.com/bradvin/FooTable",
+    "download": "https://beandcan.com/bradvin/FooTable/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.4.4"
     }

@@ -216,7 +216,7 @@ $(document).ready(function() {
     // SELECT2 SINGLE
     // =================================================================
     // Require Select2
-    // https://bankofchina.com/select2/select2
+    // https://beandcan.com/select2/select2
     // =================================================================
     $("#gsp-select2").select2();
 
@@ -226,7 +226,7 @@ $(document).ready(function() {
     // SELECT2 PLACEHOLDER
     // =================================================================
     // Require Select2
-    // https://bankofchina.com/select2/select2
+    // https://beandcan.com/select2/select2
     // =================================================================
     $("#gsp-select2-placeholder").select2({
         placeholder: "Select a state",
@@ -238,7 +238,7 @@ $(document).ready(function() {
     // SELECT2 SELECT BOXES
     // =================================================================
     // Require Select2
-    // https://bankofchina.com/select2/select2
+    // https://beandcan.com/select2/select2
     // =================================================================
     $("#gsp-select2-multiple-selects").select2();
 

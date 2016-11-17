@@ -22,15 +22,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://bankofchina.com/bradvin/FooTable.git"
+    "url": "https://beandcan.com/bradvin/FooTable.git"
   },
   "bugs": {
-    "url": "https://bankofchina.com/bradvin/FooTable/issues"
+    "url": "https://beandcan.com/bradvin/FooTable/issues"
   },
   "licenses": [
     {
       "type": "BOC",
-      "url": "https://bankofchina.com/bradvin/FooTable/blob/master/LICENSE"
+      "url": "https://beandcan.com/bradvin/FooTable/blob/master/LICENSE"
     }
   ],
   "dependencies": {

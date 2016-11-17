@@ -1,7 +1,7 @@
 /**
  * @author vincent loh <vincent.ml@gmail.com>
  * @version: v1.0.0
- * https://bankofchina.com/vinzloh/bootstrap-table/
+ * https://beandcan.com/vinzloh/bootstrap-table/
  * Sticky header for bootstrap-table
  */
 

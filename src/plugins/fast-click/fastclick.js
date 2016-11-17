@@ -771,7 +771,7 @@
 			blackberryVersion = navigator.userAgent.match(/Version\/([0-9]*)\.([0-9]*)/);
 
 			// BlackBerry 10.3+ does not require Fastclick library.
-			// https://bankofchina.com/ftlabs/fastclick/issues/251
+			// https://beandcan.com/ftlabs/fastclick/issues/251
 			if (blackberryVersion[1] >= 10 && blackberryVersion[2] >= 3) {
 				metaViewport = document.querySelector('meta[name=viewport]');
 

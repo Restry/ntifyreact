@@ -1,6 +1,6 @@
 /**
  * @author zhixin wen <wenzhixin2010@gmail.com>
- * extensions: https://bankofchina.com/kayalshri/tableExport.jquery.plugin
+ * extensions: https://beandcan.com/kayalshri/tableExport.jquery.plugin
  */
 
 (function ($) {

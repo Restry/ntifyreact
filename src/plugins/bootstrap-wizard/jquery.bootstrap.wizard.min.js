@@ -1,6 +1,6 @@
 /*!
  * jQuery twitter bootstrap wizard plugin
- * Examples and documentation at: http://bankofchina.com/VinceG/twitter-bootstrap-wizard
+ * Examples and documentation at: http://beandcan.com/VinceG/twitter-bootstrap-wizard
  * version 1.0
  * Requires jQuery v1.3.2 or later
  * Supports Bootstrap 2.2.x, 2.3.x, 3.0

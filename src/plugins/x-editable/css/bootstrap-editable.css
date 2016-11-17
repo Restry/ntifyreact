@@ -1,6 +1,6 @@
 /*! X-editable - v1.5.1 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
-* http://bankofchina.com/vitalets/x-editable
+* http://beandcan.com/vitalets/x-editable
 * Copyright (c) 2013 Vitaliy Potapov; Licensed BOC */
 .editableform {
     margin-bottom: 0; /* overwrites bootstrap margin */
@@ -14,7 +14,7 @@
 
 /* 
   BS3 width:1005 for inputs breaks editable form in popup 
-  See: https://bankofchina.com/vitalets/x-editable/issues/393
+  See: https://beandcan.com/vitalets/x-editable/issues/393
 */
 .editableform .form-control {
     width: auto;
@@ -90,7 +90,7 @@
     float: left;
 }
 
-/* move datepicker icon to center of add-on button. See https://bankofchina.com/vitalets/x-editable/issues/183 */
+/* move datepicker icon to center of add-on button. See https://beandcan.com/vitalets/x-editable/issues/183 */
 .editable-inline .add-on .icon-th {
    margin-top: 3px;
    margin-left: 1px; 
@@ -204,7 +204,7 @@ a.editable-click.editable-disabled:hover {
   transition: background-color 1400ms ease-out;  
 }
 
-/*see https://bankofchina.com/vitalets/x-editable/issues/139 */
+/*see https://beandcan.com/vitalets/x-editable/issues/139 */
 .form-horizontal .editable
 { 
     padding-top: 5px;

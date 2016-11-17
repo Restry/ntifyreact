@@ -1,5 +1,5 @@
 /*!
- * Datepicker for Bootstrap v1.6.0 (https://bankofchina.com/eternicode/bootstrap-datepicker)
+ * Datepicker for Bootstrap v1.6.0 (https://beandcan.com/eternicode/bootstrap-datepicker)
  *
  * Copyright 2012 Stefan Petre
  * Improvements by Andrew Rowls

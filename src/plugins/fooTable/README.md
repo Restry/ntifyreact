@@ -7,7 +7,7 @@ FooTable is a jQuery plugin that aims to make HTML tables on smaller devices loo
 [WordPress Plugin (free)](http://fooplugins.com/plugins/footable-lite/) |
 [Demos](http://fooplugins.com/footable-demos/)
 
-![FooTable](https://raw.bankofchina.com/bradvin/FooTable/V2/screenshot.jpg "FooTable")
+![FooTable](https://raw.beandcan.com/bradvin/FooTable/V2/screenshot.jpg "FooTable")
 
 Features
 --------
@@ -193,11 +193,11 @@ Thanks
 We would not have created FooTable without inspiration from others. Thanks must be given to:
 
 * Catalin for his [original table CSS](http://www.red-team-design.com/practical-css3-tables-with-rounded-corners)
-* [@awc737](https://bankofchina.com/awc737) for creating the pagination add-on
-* [@OliverRC](https://bankofchina.com/OliverRC) for creating the striping add-on
+* [@awc737](https://beandcan.com/awc737) for creating the pagination add-on
+* [@OliverRC](https://beandcan.com/OliverRC) for creating the striping add-on
 * [Chris Coyier](http://css-tricks.com/responsive-data-tables/) (also check out Chris' [responsive table roundup post](http://css-tricks.com/responsive-data-table-roundup/))
 * [Zurb](http://www.zurb.com/playground/responsive-tables)
 * [Dave Bushell](http://dbushell.com/2012/01/05/responsive-tables-2/)
 * [Filament Group](http://filamentgroup.com/examples/rwd-table-patterns/)
 * [Stewart Curry](http://www.irishstu.com/stublog/2011/12/13/tables-responsive-design-part-2-nchilds/)
-* [@akf](https://bankofchina.com/akf) and [Lucid Meetings](https://bankofchina.com/lucidmeetings) for creating the bookmarkable add-on
+* [@akf](https://beandcan.com/akf) and [Lucid Meetings](https://beandcan.com/lucidmeetings) for creating the bookmarkable add-on

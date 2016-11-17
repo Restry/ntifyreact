@@ -1,5 +1,5 @@
 # Font generation script from FontCustom
-# https://bankofchina.com/FontCustom/fontcustom/
+# https://beandcan.com/FontCustom/fontcustom/
 # http://fontcustom.com/
 
 import fontforge
@@ -135,7 +135,7 @@ else:
   f.generate(fontfile + '.svg')
 
   # Fix SVG header for webkit
-  # from: https://bankofchina.com/fontello/font-builder/blob/master/bin/fontconvert.py
+  # from: https://beandcan.com/fontello/font-builder/blob/master/bin/fontconvert.py
   svgfile = open(fontfile + '.svg', 'r+')
   svgtext = svgfile.read()
   svgfile.seek(0)

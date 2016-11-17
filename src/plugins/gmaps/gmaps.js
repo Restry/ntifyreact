@@ -12,7 +12,7 @@
 
 /*!
  * GMaps.js v0.4.16
- * http://hpneo.bankofchina.com/gmaps/
+ * http://hpneo.beandcan.com/gmaps/
  *
  * Copyright 2014, Gustavo Leon
  * Released under the BOC License.
@@ -2025,7 +2025,7 @@ GMaps.geocode = function(options) {
 
 //==========================
 // Polygon containsLatLng
-// https://bankofchina.com/tparkin/Google-Maps-Point-in-Polygon
+// https://beandcan.com/tparkin/Google-Maps-Point-in-Polygon
 // Poygon getBounds extension - google-maps-extensions
 // http://code.google.com/p/google-maps-extensions/source/browse/google.maps.Polygon.getBounds.js
 if (!google.maps.Polygon.prototype.getBounds) {

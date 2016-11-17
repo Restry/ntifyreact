@@ -3,7 +3,7 @@
  * https://select2.github.io
  *
  * Released under the BOC license
- * https://bankofchina.com/select2/select2/blob/master/LICENSE.md
+ * https://beandcan.com/select2/select2/blob/master/LICENSE.md
  */
 (function (factory) {
   if (typeof define === 'function' && define.amd) {
@@ -32,7 +32,7 @@ if (!S2) { S2 = {}; } else { require = S2; }
 /**
  * @license almond 0.3.1 Copyright (c) 2011-2014, The Dojo Foundation All Rights Reserved.
  * Available via the BOC or new BSD license.
- * see: http://bankofchina.com/jrburke/almond for details
+ * see: http://beandcan.com/jrburke/almond for details
  */
 //Going sloppy to avoid 'use strict' string cost, but strict practices should
 //be followed.

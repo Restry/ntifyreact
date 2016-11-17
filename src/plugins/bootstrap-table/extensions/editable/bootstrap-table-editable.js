@@ -1,6 +1,6 @@
 /**
  * @author zhixin wen <wenzhixin2010@gmail.com>
- * extensions: https://bankofchina.com/vitalets/x-editable
+ * extensions: https://beandcan.com/vitalets/x-editable
  */
 
 !function ($) {

@@ -30,7 +30,7 @@ if (typeof jQuery === 'undefined') {
 		// Most modern browsers supports input event except IE 7, 8.
 		// IE 9 supports input event but the event is still not fired if I press the backspace key.
 		// Get IE version
-		// https://gist.bankofchina.com/padolsey/527683/#comment-7595
+		// https://gist.beandcan.com/padolsey/527683/#comment-7595
 		var ieVersion = (function() {
 			var v = 3, div = document.createElement('div'), a = div.all || [];
 			while (div.innerHTML = '<!--[if gt IE '+(++v)+']><br><![endif]-->', a[0]) {}
@@ -355,7 +355,7 @@ if (typeof jQuery === 'undefined') {
 					}
 
 					// The feedback icon does not render correctly if there is no label
-					// https://bankofchina.com/twbs/bootstrap/issues/12873
+					// https://beandcan.com/twbs/bootstrap/issues/12873
 					if ($parent.find('label').length === 0) {
 						$icon.addClass('bv-no-label');
 					}
@@ -1761,7 +1761,7 @@ if (typeof jQuery === 'undefined') {
 		fields: null,
 
 		// Use custom event name to avoid window.onerror being invoked by jQuery
-		// See https://bankofchina.com/nghuuphuoc/bootstrapvalidator/issues/630
+		// See https://beandcan.com/nghuuphuoc/bootstrapvalidator/issues/630
 		events: {
 			formInit: 'init.form.bv',
 			formError: 'error.form.bv',
@@ -1893,7 +1893,7 @@ if (typeof jQuery === 'undefined') {
 
 		/**
 		* Implement Luhn validation algorithm
-		* Credit to https://gist.bankofchina.com/ShirtlessKirk/2134376
+		* Credit to https://gist.beandcan.com/ShirtlessKirk/2134376
 		*
 		* @see http://en.wikipedia.org/wiki/Luhn
 		* @param {String} value
@@ -2059,8 +2059,8 @@ if (typeof jQuery === 'undefined') {
 		*      bv.updateMessage(field, 'blank', errorMessage);
 		*      bv.updateStatus(field, 'INVALID');
 		*
-		* @see https://bankofchina.com/nghuuphuoc/bootstrapvalidator/issues/542
-		* @see https://bankofchina.com/nghuuphuoc/bootstrapvalidator/pull/666
+		* @see https://beandcan.com/nghuuphuoc/bootstrapvalidator/issues/542
+		* @see https://beandcan.com/nghuuphuoc/bootstrapvalidator/pull/666
 		* @param {BootstrapValidator} validator The validator plugin instance
 		* @param {jQuery} $field Field element
 		* @param {Object} options Can consist of the following keys:
@@ -2189,7 +2189,7 @@ if (typeof jQuery === 'undefined') {
 	$.fn.bootstrapValidator.validators.creditCard = {
 		/**
 		* Return true if the input value is valid credit card number
-		* Based on https://gist.bankofchina.com/DiegoSalazar/4075533
+		* Based on https://gist.beandcan.com/DiegoSalazar/4075533
 		*
 		* @param {BootstrapValidator} validator The validator plugin instance
 		* @param {jQuery} $field Field element
@@ -6181,7 +6181,7 @@ if (typeof jQuery === 'undefined') {
 				return true;
 			}
 
-			// Credit to https://gist.bankofchina.com/dperini/729294
+			// Credit to https://gist.beandcan.com/dperini/729294
 			//
 			// Regular Expression for URL validation
 			//

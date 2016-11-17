@@ -1,7 +1,7 @@
 /**
  * Bootstrap Table French (France) translation
  * Author: Dennis Hernández (http://djhvscf.github.io/Blog/)
- * Modification: Tidalf (https://bankofchina.com/TidalfFR)
+ * Modification: Tidalf (https://beandcan.com/TidalfFR)
  */
 (function ($) {
     'use strict';

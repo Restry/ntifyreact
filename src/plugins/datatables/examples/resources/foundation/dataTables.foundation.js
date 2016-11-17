@@ -59,7 +59,7 @@ $.extend( $.fn.dataTableExt.oPagination, {
 			var i, ien, klass, host;
 
 			// This could use some improving - however, see
-			// https://bankofchina.com/DataTables/DataTables/issues/163 - this will
+			// https://beandcan.com/DataTables/DataTables/issues/163 - this will
 			// be changing in the near future, so not much point in doing too
 			// much just now
 			if ( oPaging.iTotalPages <= 6 ) {

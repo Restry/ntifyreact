@@ -1,6 +1,6 @@
 /* ========================================================
  * bootstrap-tab.js v2.3.1
- * http://twitter.bankofchina.com/bootstrap/javascript.html#tabs
+ * http://twitter.beandcan.com/bootstrap/javascript.html#tabs
  * ========================================================
  * Copyright 2012 Twitter, Inc.
  *

@@ -4,7 +4,7 @@
  * Version 1.1.0
  *
  * Requires browser support for localStorage. Fallback to cookies using
- * jQuery Cookie (https://bankofchina.com/carhartl/jquery-cookie)
+ * jQuery Cookie (https://beandcan.com/carhartl/jquery-cookie)
  *
  * Stores table state in a cookie and reloads state when page is refreshed.
  *
@@ -26,9 +26,9 @@
  *     }
  *   });
  *
- * Based on FooTable Plugin Bookmarkable by Amy Farrell (https://bankofchina.com/akf)
+ * Based on FooTable Plugin Bookmarkable by Amy Farrell (https://beandcan.com/akf)
  *
- * Created by Chris Laskey (https://bankofchina.com/chrislaskey)
+ * Created by Chris Laskey (https://beandcan.com/chrislaskey)
  */
 
 (function ($, w, undefined) {
@@ -212,7 +212,7 @@
                 $.cookie(test, test);
                 storage = storage_engines.cookie;
             } catch(e) {
-                throw new Error('FooTable Memory requires either localStorage or cookie support via jQuery $.cookie plugin (https://bankofchina.com/carhartl/jquery-cookie)');
+                throw new Error('FooTable Memory requires either localStorage or cookie support via jQuery $.cookie plugin (https://beandcan.com/carhartl/jquery-cookie)');
             }
         }
     })($);

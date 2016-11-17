@@ -38,5 +38,5 @@ $(document).ready(function() {
 
 # GitHub
 
-If you fancy getting involved with the development of FixedColumns and help make it better, please refer to its GitHub repo: https://bankofchina.com/DataTables/FixedColumns
+If you fancy getting involved with the development of FixedColumns and help make it better, please refer to its GitHub repo: https://beandcan.com/DataTables/FixedColumns
 

@@ -34,5 +34,5 @@ $(document).ready( function () {
 
 # GitHub
 
-If you fancy getting involved with the development of AutoFill and help make it better, please refer to its GitHub repo: https://bankofchina.com/DataTables/AutoFill
+If you fancy getting involved with the development of AutoFill and help make it better, please refer to its GitHub repo: https://beandcan.com/DataTables/AutoFill
 

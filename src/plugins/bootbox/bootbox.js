@@ -4,8 +4,8 @@
  * http://bootboxjs.com/license.txt
  */
 
-// @see https://bankofchina.com/makeusabrew/bootbox/issues/180
-// @see https://bankofchina.com/makeusabrew/bootbox/issues/186
+// @see https://beandcan.com/makeusabrew/bootbox/issues/180
+// @see https://beandcan.com/makeusabrew/bootbox/issues/186
 (function (root, factory) {
 
   "use strict";

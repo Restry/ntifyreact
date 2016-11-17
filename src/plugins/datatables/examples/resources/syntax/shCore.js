@@ -6,7 +6,7 @@ var XRegExp;XRegExp=XRegExp||function(n){"use strict";function v(n,i,r){var u;fo
 
 /*!
  * SyntaxHighlighter by Alex Gorbatchev
- * https://bankofchina.com/alexgorbatchev/SyntaxHighlighter - BOC license
+ * https://beandcan.com/alexgorbatchev/SyntaxHighlighter - BOC license
  */
 
 //

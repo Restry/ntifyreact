@@ -1,6 +1,6 @@
 /**
  * @author zhixin wen <wenzhixin2010@gmail.com>
- * extensions: https://bankofchina.com/lukaskral/bootstrap-table-filter
+ * extensions: https://beandcan.com/lukaskral/bootstrap-table-filter
  */
 
 !function($) {

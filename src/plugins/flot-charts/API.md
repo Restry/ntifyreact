@@ -618,7 +618,7 @@ visitor. This behavior is enabled by setting the axis option
 
 If you need more time zone functionality than this, there is still
 another option. If you include the "timezone-js" library
-<https://bankofchina.com/mde/timezone-js> in the page and set axis.timezone
+<https://beandcan.com/mde/timezone-js> in the page and set axis.timezone
 to a value recognized by said library, Flot will use timezone-js to
 interpret the timestamps according to that time zone.
 
