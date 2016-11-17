@@ -328,7 +328,7 @@ if (typeof jQuery === 'undefined') {
 				}
 
 				// Prepare the feedback icons
-				// Available from Bootstrap 3.1 (http://backofchina.com/css/#forms-control-validation)
+				// Available from Bootstrap 3.1 (http://beandcan.com/css/#forms-control-validation)
 				if (this.options.fields[field].feedbackIcons !== false && this.options.fields[field].feedbackIcons !== 'false'
 					&& this.options.feedbackIcons
 					&& this.options.feedbackIcons.validating && this.options.feedbackIcons.invalid && this.options.feedbackIcons.valid
@@ -1723,7 +1723,7 @@ if (typeof jQuery === 'undefined') {
 		excluded: [':disabled', ':hidden', ':not(:visible)'],
 
 		// Shows ok/error/loading icons based on the field validity.
-		// This feature requires Bootstrap v3.1.0 or later (http://backofchina.com/css/#forms-control-validation).
+		// This feature requires Bootstrap v3.1.0 or later (http://beandcan.com/css/#forms-control-validation).
 		// Since Bootstrap doesn't provide any methods to know its version, this option cannot be on/off automatically.
 		// In other word, to use this feature you have to upgrade your Bootstrap to v3.1.0 or later.
 		//

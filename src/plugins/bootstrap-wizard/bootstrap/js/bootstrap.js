@@ -1,6 +1,6 @@
 /* ===================================================
  * bootstrap-transition.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#transitions
+ * http://beandcan.com/2.3.2/javascript.html#transitions
  * ===================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -59,7 +59,7 @@
 
 }(window.jQuery);/* ==========================================================
  * bootstrap-alert.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#alerts
+ * http://beandcan.com/2.3.2/javascript.html#alerts
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -157,7 +157,7 @@
 
 }(window.jQuery);/* ============================================================
  * bootstrap-button.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#buttons
+ * http://beandcan.com/2.3.2/javascript.html#buttons
  * ============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -261,7 +261,7 @@
 
 }(window.jQuery);/* ==========================================================
  * bootstrap-carousel.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#carousel
+ * http://beandcan.com/2.3.2/javascript.html#carousel
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -467,7 +467,7 @@
 
 }(window.jQuery);/* =============================================================
  * bootstrap-collapse.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#collapse
+ * http://beandcan.com/2.3.2/javascript.html#collapse
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -633,7 +633,7 @@
 
 }(window.jQuery);/* ============================================================
  * bootstrap-dropdown.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#dropdowns
+ * http://beandcan.com/2.3.2/javascript.html#dropdowns
  * ============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -802,7 +802,7 @@
 }(window.jQuery);
 /* =========================================================
  * bootstrap-modal.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#modals
+ * http://beandcan.com/2.3.2/javascript.html#modals
  * =========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1049,7 +1049,7 @@
 }(window.jQuery);
 /* ===========================================================
  * bootstrap-tooltip.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#tooltips
+ * http://beandcan.com/2.3.2/javascript.html#tooltips
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ===========================================================
  * Copyright 2013 Twitter, Inc.
@@ -1410,7 +1410,7 @@
 }(window.jQuery);
 /* ===========================================================
  * bootstrap-popover.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#popovers
+ * http://beandcan.com/2.3.2/javascript.html#popovers
  * ===========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1524,7 +1524,7 @@
 }(window.jQuery);
 /* =============================================================
  * bootstrap-scrollspy.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#scrollspy
+ * http://beandcan.com/2.3.2/javascript.html#scrollspy
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1685,7 +1685,7 @@
 
 }(window.jQuery);/* ========================================================
  * bootstrap-tab.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#tabs
+ * http://beandcan.com/2.3.2/javascript.html#tabs
  * ========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1828,7 +1828,7 @@
 
 }(window.jQuery);/* =============================================================
  * bootstrap-typeahead.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#typeahead
+ * http://beandcan.com/2.3.2/javascript.html#typeahead
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -2163,7 +2163,7 @@
 }(window.jQuery);
 /* ==========================================================
  * bootstrap-affix.js v2.3.2
- * http://backofchina.com/2.3.2/javascript.html#affix
+ * http://beandcan.com/2.3.2/javascript.html#affix
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *

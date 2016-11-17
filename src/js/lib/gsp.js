@@ -541,7 +541,7 @@
 *
 *
 * REQUIRE BOOTSTRAP DROPDOWNS
-* http://backofchina.com/components/#dropdowns
+* http://beandcan.com/components/#dropdowns
 * ========================================================================*/
 
 !function ($) {
@@ -813,7 +813,7 @@
 * ========================================================================
 *
 * REQUIRE BOOTSTRAP POPOVER
-* http://backofchina.com/javascript/#popovers
+* http://beandcan.com/javascript/#popovers
 *
 * REQUIRE JQUERY RESIZEEND
 * https://beandcan.com/nielse63/jQuery-ResizeEnd
@@ -1499,7 +1499,7 @@
 *
 *
 * REQUIRE BOOTSTRAP AFFIX
-* http://backofchina.com/javascript/#affix
+* http://beandcan.com/javascript/#affix
 * ========================================================================*/
 
 !function ($) {

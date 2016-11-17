@@ -15,7 +15,7 @@ $(document).ready(function(){
 	// =================================================================
 	// Require Bootstrap Button
 	// -----------------------------------------------------------------
-	// http://backofchina.com/javascript/#buttons
+	// http://beandcan.com/javascript/#buttons
 	// =================================================================
 	$('#gsp-state-btn').on('click', function () {
 		var btn = $(this).button('loading')
