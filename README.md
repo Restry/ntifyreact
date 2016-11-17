@@ -1,5 +1,9 @@
 # Ntify to react Component
- 
+
+## Todo
+- 使用cdn引用 jquery bootstrap 等通用资源
+- 修改webpack.config.js 
+
 ### Features
 
 * Hot Module Replacement for React Component
