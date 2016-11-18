@@ -25,7 +25,6 @@ var center = require("../common/center.js");
 var footer = require("../common/footer.js");
 var demoSet = require("../common/demoset.js");
 
-require("bootstrap3");
 
 getId("navbar").innerHTML = header;
 console.log("loaded:" + header.length);
@@ -44,6 +43,6 @@ require("../../js/pages/gsp-demo.js")
 
 require("morris.js")
 
- 
- 
+
+
 

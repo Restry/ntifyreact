@@ -12,9 +12,7 @@ var debug = process.env.ENVDEBUG;
 module.exports = {
   entry: {
     //app: path.resolve(SRC_PATH, 'index.jsx'),
-    dashborad: path.resolve(SRC_PATH, 'js/pages/dashboard.js'),
-    boostrap3: ['bootstrap3'],
-    jquery: ['jquery']
+    dashborad: path.resolve(SRC_PATH, 'js/pages/dashboard.js')
   },
   output: {
     path: BUILD_PATH,
@@ -61,14 +59,14 @@ module.exports = {
 
     ]
   },
+  externals:
+  {
+    jquery: '$',
+    ko: true
+  },
+
   plugins: [
-    new webpack.ProvidePlugin({ //加载jq 
-      $: 'jquery',
-      jQuery: "jquery",
-      ko:"knockout",
-      Raphael: "raphael"
-    }),
-    debug ? function() {} : new webpack.optimize.UglifyJsPlugin({ //压缩代码
+    debug ? function () { } : new webpack.optimize.UglifyJsPlugin({ //压缩代码
       compress: {
         warnings: false
       },

@@ -11,7 +11,6 @@ var center = require("./views/tpl/center.html");
 var footer = require("./views/tpl/footer.html");
 var demoSet = require("./views/tpl/demo-set.html");
 
-require("bootstrap3");
 
 getId("navbar").innerHTML = header;
 console.log("loaded:" + header.length);
