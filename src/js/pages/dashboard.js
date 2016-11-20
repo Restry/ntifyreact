@@ -28,7 +28,7 @@ var demoSet = require("../common/demoset.js");
 
 getId("navbar").innerHTML = header;
 console.log("loaded:" + header.length);
-//getId("center").innerHTML = center;
+getId("center").innerHTML = center;
 console.log("loaded:" + center.length);
 getId("footer").innerHTML = footer;
 console.log("loaded:" + footer.length);
